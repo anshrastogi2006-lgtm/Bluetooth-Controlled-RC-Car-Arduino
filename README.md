@@ -1,5 +1,4 @@
-# Bluetooth-Controlled-RC-Car-Arduino
-Bluetooth-controlled robotic car using Arduino Uno, HC-05 Bluetooth module, motor driver, and four DC motors.
+
 # 🚗 Bluetooth Controlled RC Car using Arduino
 
 A Bluetooth-controlled robotic car developed using Arduino Uno, HC-05 Bluetooth module, motor driver, and four DC motors. The car can be controlled wirelessly through an Android smartphone using a Bluetooth Controller application.
