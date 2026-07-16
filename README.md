@@ -72,16 +72,16 @@ This allows the robot car to move wirelessly in real time.
 - Speed Control using PWM
 
 ---
+## Project Image
 
-## Robot Car
+![Bluetooth Controlled RC Car](car.jpg)
 
-![Bluetooth Controlled RC Car](images/car.jpg)
+*Bluetooth-controlled RC car built using Arduino Uno, HC-05 Bluetooth module, motor driver, and four DC motors.*
 
 ## 🎥 Project Demo
 
 [![Bluetooth Controlled RC Car](car.jpg)](demo.mp4)
 
-*Click the image above to watch the project demonstration.*
 
 
 ## Author
