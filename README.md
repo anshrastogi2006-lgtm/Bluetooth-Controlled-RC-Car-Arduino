@@ -61,21 +61,6 @@ This allows the robot car to move wirelessly in real time.
 | Right | R |
 | Stop | S |
 
----
-
-## Project Images
-
-### Robot Car
-
-![Robot Car](images/car_front.jpg)
-
----
-
-## Demo
-
-See **demo.mp4** for the complete working demonstration.
-
----
 
 ## Future Improvements
 
